@@ -1,0 +1,6 @@
+### 本视频使用的所有软件包下载
+|软件名|功能|下载|编译日期|
+| :----: | :----: | :----: | :----: |
+| [iStoreOS系统固件](https://github.com/Openwrt-Passwall/openwrt-passwall) | 科学工具 | [PassWall_26.9.16](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_26.9.16_aarch64_a53_all_sdk_22.03.7.run)
+| [usbimager](https://github.com/Openwrt-Passwall/openwrt-passwall2) | 科学工具 | [PassWall2_26.9.12](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_26.9.12_aarch64_a53_all_sdk_22.03.7.run)
+| [passwall](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_196-7](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_196-7_aarch64_a53_all_sdk_22.03.7.run) 
